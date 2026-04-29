@@ -2,13 +2,11 @@ function findCheck(arr, target){
     for (i=0; i<arr.length; i++){
         if (arr[i] === target){
             console.log ("Found it!");
+            return;
         }
-        else{
-            console.log ("Not found!");
+           
         }
+        console.log ("Not found!");
     }
 
-
-}
-
-findCheck(["apple","mango","banana"],"orange");
+findCheck(["apple","mango","banana"],"banana");

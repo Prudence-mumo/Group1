@@ -1,6 +1,6 @@
-# Group1
+# Group1-Anitab
 
-Prudence Mumo
-Rose Wanjiru Muragu
-Esther Kazungu
-InezaLira Gabriella
+1.Prudence Mumo
+2.Rose Wanjiru Muragu
+3.Esther Kazungu
+4.InezaLira Gabriella
